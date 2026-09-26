@@ -5,6 +5,7 @@
     "home_page_url": "https://vascons.ro",
     "feed_url": "https://vascons.ro/feed.json",
     "user_comment": "",
+    "icon": "https://vascons.ro/media/website/Logo.png",
     "author": {
         "name": "Vasi Stanciu"
     },
