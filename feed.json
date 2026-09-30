@@ -9,5 +9,34 @@
         "name": "Vasi Stanciu"
     },
     "items": [
+        {
+            "id": "https://vascons.ro/supervizare-prin-diriginti-de-santier.html",
+            "url": "https://vascons.ro/supervizare-prin-diriginti-de-santier.html",
+            "title": "Servicii",
+            "summary": "Supervizare prin diriginți de șantier Asigurăm monitorizarea și controlul calității lucrărilor pe șantier pentru o gamă largă de proiecte de construcții. Gestionăm eficient proiectele&hellip;",
+            "content_html": "<h3 class=\"wp-block-heading\">Supervizare prin diriginți de șantier</h3>\n<p>Asigurăm monitorizarea și controlul calității lucrărilor pe șantier pentru o gamă largă de proiecte de construcții.</p>\n<h3 class=\"wp-block-heading\">Project Management</h3>\n<p>Gestionăm eficient proiectele dumneavoastră, de la inițiere până la finalizare.</p>\n<h3 class=\"wp-block-heading\">Servicii de Responsabili Tehnici cu Execuția</h3>\n<p>Desfășurăm activități de verificare, coordonare și supervizare tehnică a execuției lucrărilor de construcții, conform cerințelor legale și proiectului tehnic</p>\n<h3 class=\"wp-block-heading\">Servicii de Responsabil cu Controlul Tehnic de Calitate</h3>\n<p>Asigurăm monitorizarea și controlul calității lucrărilor pe șantier pentru o gamă largă de proiecte de construcții.</p>\n<h3 class=\"wp-block-heading\">Întocmire și verificare Cărți Tehnice</h3>\n<p>Gestionăm eficient proiectele dumneavoastră, de la inițiere până la finalizare.</p>\n<h3 class=\"wp-block-heading\">Audit și Certificate Energetice</h3>\n<p>Desfășurăm activități de verificare, coordonare și supervizare tehnică a execuției lucrărilor de construcții, conform cerințelor legale și proiectului tehnic</p>",
+            "author": {
+                "name": "Vasi Stanciu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-30T21:48:07+03:00",
+            "date_modified": "2026-09-30T21:50:48+03:00"
+        },
+        {
+            "id": "https://vascons.ro/vascons-si-asociatii.html",
+            "url": "https://vascons.ro/vascons-si-asociatii.html",
+            "title": "VASCONS SI ASOCIATII",
+            "summary": "Partenerul dumneavoastră de încredere în Construcții și Supervizare",
+            "content_html": "<h1 class=\"wp-block-heading has-text-align-left has-white-color has-text-color\"> </h1>\n<p>Partenerul dumneavoastră de încredere în Construcții și Supervizare</p>",
+            "image": "https://vascons.ro/media/posts/3/pexels-gustavo-fring-6285159.jpg",
+            "author": {
+                "name": "Vasi Stanciu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-30T21:16:15+03:00",
+            "date_modified": "2026-09-30T21:53:18+03:00"
+        }
     ]
 }
