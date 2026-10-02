@@ -3,19 +3,68 @@
     <title>vascons</title>
     <link href="https://vascons.ro/feed.xml" rel="self" />
     <link href="https://vascons.ro" />
-    <updated>2026-10-02T21:46:09+03:00</updated>
+    <updated>2026-10-02T22:13:07+03:00</updated>
     <author>
         <name>Vasi Stanciu</name>
     </author>
     <id>https://vascons.ro</id>
 
     <entry>
+        <title>Contact</title>
+        <author>
+            <name>Vasi Stanciu</name>
+        </author>
+        <link href="https://vascons.ro/contact/"/>
+        <id>https://vascons.ro/contact/</id>
+        <media:content url="https://vascons.ro/media/posts/4/contractor.jpg" medium="image" />
+
+        <updated>2026-10-02T17:41:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vascons.ro/media/posts/4/contractor.jpg" alt="" />
+                    Telefon: 0728603424 Email: vasconssrl@gmail.com Adresa: București, Sector 6, Drum Ciorogarla, nr. 173, Ap. 24, Cod 062397
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vascons.ro/media/posts/4/contractor.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Telefon:  0728603424</p>
+<p>Email: <a href="cdn-cgi/l/email-protection.html#f98f988a9a96978a8a8b95b99e94989095d79a9694" target="_blank" rel="noreferrer noopener">vasconssrl@gmail.com</a></p>
+<p>Adresa: București, Sector 6, Drum Ciorogarla, nr. 173,  Ap. 24, Cod 062397</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Parteneri si recomandari</title>
+        <author>
+            <name>Vasi Stanciu</name>
+        </author>
+        <link href="https://vascons.ro/parteneri-si-recomandari/"/>
+        <id>https://vascons.ro/parteneri-si-recomandari/</id>
+        <media:content url="https://vascons.ro/media/posts/5/images.jpg" medium="image" />
+
+        <updated>2026-10-02T17:40:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vascons.ro/media/posts/5/images.jpg" alt="" />
+                    De-a lungul activității noastre, am colaborat cu parteneri de prestigiu din sectorul public și privat, precum Primăria Sector 5, CNI, Emag, Sanador, Institutul Marius&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vascons.ro/media/posts/5/images.jpg" class="type:primaryImage" alt="" /></p>
+                <p>De-a lungul activității noastre, am colaborat cu parteneri de prestigiu din sectorul public și privat, precum Primăria Sector 5, CNI, Emag, Sanador, Institutul Marius Nasta și UAT-uri din întreaga țară. Aceste parteneriate reflectă încrederea acordată serviciilor noastre și capacitatea de a gestiona proiecte complexe la standarde ridicate.</p>
+<p>Recomandările primite reflectă profesionalismul, seriozitatea și responsabilitatea echipei noastre în toate etapele proiectelor. Suntem apreciați pentru promptitudine, flexibilitate și soluții tehnice corecte, oferite unor parteneri importanți din sectorul public și privat. Rezultatele obținute confirmă încrederea acordată de clienții noștri.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Servicii</title>
         <author>
             <name>Vasi Stanciu</name>
         </author>
-        <link href="https://vascons.ro/servicii.html"/>
-        <id>https://vascons.ro/servicii.html</id>
+        <link href="https://vascons.ro/servicii/"/>
+        <id>https://vascons.ro/servicii/</id>
         <media:content url="https://vascons.ro/media/posts/2/download-8.jpg" medium="image" />
 
         <updated>2026-10-02T17:35:00+03:00</updated>
@@ -44,48 +93,32 @@
         </content>
     </entry>
     <entry>
-        <title>About</title>
+        <title>Vascons și Asociatii </title>
         <author>
             <name>Vasi Stanciu</name>
         </author>
-        <link href="https://vascons.ro/about.html"/>
-        <id>https://vascons.ro/about.html</id>
-        <media:content url="https://vascons.ro/media/posts/3/Construction-Company-in-Vadodara-_-Patel-Infraspace.jpg" medium="image" />
-
-        <updated>2026-10-02T17:30:00+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://vascons.ro/media/posts/3/Construction-Company-in-Vadodara-_-Patel-Infraspace.jpg" alt="" />
-                    Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII S.R.L. se dedică oferirii de servicii complete și&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://vascons.ro/media/posts/3/Construction-Company-in-Vadodara-_-Patel-Infraspace.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII S.R.L. se dedică oferirii de servicii complete și competitive în domeniul construcțiilor, bazate pe cele mai bune competențe, în conformitate cu legislația și reglementările tehnice în vigoare. Obiectivul nostru principal este satisfacerea cerințelor clienților prin executarea lucrărilor la nivelul de calitate planificat, în bugetul alocat și la cele mai înalte standarde.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vascons și Asociatii</title>
-        <author>
-            <name>Vasi Stanciu</name>
-        </author>
-        <link href="https://vascons.ro/vascons-si-asociatii.html"/>
-        <id>https://vascons.ro/vascons-si-asociatii.html</id>
+        <link href="https://vascons.ro/vascons-si-asociatii/"/>
+        <id>https://vascons.ro/vascons-si-asociatii/</id>
         <media:content url="https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg" medium="image" />
 
         <updated>2026-10-02T17:00:00+03:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg" alt="" />
-                    Partenerul dumneavoastră de încredere în Construcții și Supervizare
+                    Partenerul dumneavoastră de încredere în Construcții și Supervizare Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Partenerul dumneavoastră de încredere în Construcții și Supervizare</p>
+<p>Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII S.R.L. se dedică oferirii de servicii complete și competitive în domeniul construcțiilor, bazate pe cele mai bune competențe, în conformitate cu legislația și reglementările tehnice în vigoare. Obiectivul nostru principal este satisfacerea cerințelor clienților prin executarea lucrărilor la nivelul de calitate planificat, în bugetul alocat și la cele mai înalte standarde.</p>
+<p class="has-text-align-center">Angajamentul Nostru pentru Calitate și Profesionalism: Calitatea și performanța sunt pilonii activității noastre, demonstrate prin certificarea ISO 9001:2015 pentru activități de inginerie și consultanță tehnică.</p>
+<p class="has-text-align-center">Echipa noastră este condusă de principii fundamentale:</p>
+<p>- Imparțialitate: Ne menținem o poziție neutră față de Beneficiar, Constructor, Furnizori și Proiectanți.</p>
+<p class="has-medium-font-size">– Profesionalism: Dovedim un înalt nivel de expertiză în toate acțiunile noastre.</p>
+<p class="has-medium-font-size">– Fidelitate: Respectăm cu strictețe cerințele investiției din punct de vedere al calității, costului și duratei de execuție.</p>
+<p class="has-medium-font-size">– Respectarea Legalității: Acționăm întotdeauna în conformitate cu legile, regulamentele, instrucțiunile și normele tehnice în vigoare.</p>
             ]]>
         </content>
     </entry>

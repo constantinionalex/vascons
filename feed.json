@@ -10,8 +10,38 @@
     },
     "items": [
         {
-            "id": "https://vascons.ro/servicii.html",
-            "url": "https://vascons.ro/servicii.html",
+            "id": "https://vascons.ro/contact/",
+            "url": "https://vascons.ro/contact/",
+            "title": "Contact",
+            "summary": "Telefon: 0728603424 Email: vasconssrl@gmail.com Adresa: București, Sector 6, Drum Ciorogarla, nr. 173, Ap. 24, Cod 062397",
+            "content_html": "<p>Telefon:  0728603424</p>\n<p>Email: <a href=\"cdn-cgi/l/email-protection.html#f98f988a9a96978a8a8b95b99e94989095d79a9694\" target=\"_blank\" rel=\"noreferrer noopener\">vasconssrl@gmail.com</a></p>\n<p>Adresa: București, Sector 6, Drum Ciorogarla, nr. 173,  Ap. 24, Cod 062397</p>",
+            "image": "https://vascons.ro/media/posts/4/contractor.jpg",
+            "author": {
+                "name": "Vasi Stanciu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-02T17:41:00+03:00",
+            "date_modified": "2026-10-02T22:13:07+03:00"
+        },
+        {
+            "id": "https://vascons.ro/parteneri-si-recomandari/",
+            "url": "https://vascons.ro/parteneri-si-recomandari/",
+            "title": "Parteneri si recomandari",
+            "summary": "De-a lungul activității noastre, am colaborat cu parteneri de prestigiu din sectorul public și privat, precum Primăria Sector 5, CNI, Emag, Sanador, Institutul Marius&hellip;",
+            "content_html": "<p>De-a lungul activității noastre, am colaborat cu parteneri de prestigiu din sectorul public și privat, precum Primăria Sector 5, CNI, Emag, Sanador, Institutul Marius Nasta și UAT-uri din întreaga țară. Aceste parteneriate reflectă încrederea acordată serviciilor noastre și capacitatea de a gestiona proiecte complexe la standarde ridicate.</p>\n<p>Recomandările primite reflectă profesionalismul, seriozitatea și responsabilitatea echipei noastre în toate etapele proiectelor. Suntem apreciați pentru promptitudine, flexibilitate și soluții tehnice corecte, oferite unor parteneri importanți din sectorul public și privat. Rezultatele obținute confirmă încrederea acordată de clienții noștri.</p>",
+            "image": "https://vascons.ro/media/posts/5/images.jpg",
+            "author": {
+                "name": "Vasi Stanciu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-02T17:40:00+03:00",
+            "date_modified": "2026-10-02T22:13:00+03:00"
+        },
+        {
+            "id": "https://vascons.ro/servicii/",
+            "url": "https://vascons.ro/servicii/",
             "title": "Servicii",
             "summary": "Supervizare prin diriginți de șantier Asigurăm monitorizarea și controlul calității lucrărilor pe șantier pentru o gamă largă de proiecte de construcții. Gestionăm eficient proiectele&hellip;",
             "content_html": "<h3 class=\"wp-block-heading\">Supervizare prin diriginți de șantier</h3>\n<p>Asigurăm monitorizarea și controlul calității lucrărilor pe șantier pentru o gamă largă de proiecte de construcții.</p>\n<h3 class=\"wp-block-heading\">Project Management</h3>\n<p>Gestionăm eficient proiectele dumneavoastră, de la inițiere până la finalizare.</p>\n<h3 class=\"wp-block-heading\">Servicii de Responsabili Tehnici cu Execuția</h3>\n<p>Desfășurăm activități de verificare, coordonare și supervizare tehnică a execuției lucrărilor de construcții, conform cerințelor legale și proiectului tehnic</p>\n<h3 class=\"wp-block-heading\">Servicii de Responsabil cu Controlul Tehnic de Calitate</h3>\n<p>Asigurăm monitorizarea și controlul calității lucrărilor pe șantier pentru o gamă largă de proiecte de construcții.</p>\n<h3 class=\"wp-block-heading\">Întocmire și verificare Cărți Tehnice</h3>\n<p>Gestionăm eficient proiectele dumneavoastră, de la inițiere până la finalizare.</p>\n<h3 class=\"wp-block-heading\">Audit și Certificate Energetice</h3>\n<p>Desfășurăm activități de verificare, coordonare și supervizare tehnică a execuției lucrărilor de construcții, conform cerințelor legale și proiectului tehnic</p>",
@@ -22,29 +52,14 @@
             "tags": [
             ],
             "date_published": "2026-10-02T17:35:00+03:00",
-            "date_modified": "2026-10-02T21:46:09+03:00"
+            "date_modified": "2026-10-02T22:12:38+03:00"
         },
         {
-            "id": "https://vascons.ro/about.html",
-            "url": "https://vascons.ro/about.html",
-            "title": "About",
-            "summary": "Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII S.R.L. se dedică oferirii de servicii complete și&hellip;",
-            "content_html": "<p>Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII S.R.L. se dedică oferirii de servicii complete și competitive în domeniul construcțiilor, bazate pe cele mai bune competențe, în conformitate cu legislația și reglementările tehnice în vigoare. Obiectivul nostru principal este satisfacerea cerințelor clienților prin executarea lucrărilor la nivelul de calitate planificat, în bugetul alocat și la cele mai înalte standarde.</p>",
-            "image": "https://vascons.ro/media/posts/3/Construction-Company-in-Vadodara-_-Patel-Infraspace.jpg",
-            "author": {
-                "name": "Vasi Stanciu"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-02T17:30:00+03:00",
-            "date_modified": "2026-10-02T21:46:00+03:00"
-        },
-        {
-            "id": "https://vascons.ro/vascons-si-asociatii.html",
-            "url": "https://vascons.ro/vascons-si-asociatii.html",
-            "title": "Vascons și Asociatii",
-            "summary": "Partenerul dumneavoastră de încredere în Construcții și Supervizare",
-            "content_html": "<p>Partenerul dumneavoastră de încredere în Construcții și Supervizare</p>",
+            "id": "https://vascons.ro/vascons-si-asociatii/",
+            "url": "https://vascons.ro/vascons-si-asociatii/",
+            "title": "Vascons și Asociatii ",
+            "summary": "Partenerul dumneavoastră de încredere în Construcții și Supervizare Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII&hellip;",
+            "content_html": "<p>Partenerul dumneavoastră de încredere în Construcții și Supervizare</p>\n<p>Înființată în anul 2015 și cu sediul social în București, Sector 6, S.C. VASCONS SI ASOCIATII S.R.L. se dedică oferirii de servicii complete și competitive în domeniul construcțiilor, bazate pe cele mai bune competențe, în conformitate cu legislația și reglementările tehnice în vigoare. Obiectivul nostru principal este satisfacerea cerințelor clienților prin executarea lucrărilor la nivelul de calitate planificat, în bugetul alocat și la cele mai înalte standarde.</p>\n<p class=\"has-text-align-center\">Angajamentul Nostru pentru Calitate și Profesionalism: Calitatea și performanța sunt pilonii activității noastre, demonstrate prin certificarea ISO 9001:2015 pentru activități de inginerie și consultanță tehnică.</p>\n<p class=\"has-text-align-center\">Echipa noastră este condusă de principii fundamentale:</p>\n<p>- Imparțialitate: Ne menținem o poziție neutră față de Beneficiar, Constructor, Furnizori și Proiectanți.</p>\n<p class=\"has-medium-font-size\">– Profesionalism: Dovedim un înalt nivel de expertiză în toate acțiunile noastre.</p>\n<p class=\"has-medium-font-size\">– Fidelitate: Respectăm cu strictețe cerințele investiției din punct de vedere al calității, costului și duratei de execuție.</p>\n<p class=\"has-medium-font-size\">– Respectarea Legalității: Acționăm întotdeauna în conformitate cu legile, regulamentele, instrucțiunile și normele tehnice în vigoare.</p>",
             "image": "https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg",
             "author": {
                 "name": "Vasi Stanciu"
@@ -52,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2026-10-02T17:00:00+03:00",
-            "date_modified": "2026-10-02T21:45:23+03:00"
+            "date_modified": "2026-10-02T22:12:50+03:00"
         }
     ]
 }
