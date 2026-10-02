@@ -3,10 +3,33 @@
     <title>vascons</title>
     <link href="https://vascons.ro/feed.xml" rel="self" />
     <link href="https://vascons.ro" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2026-10-02T17:34:13+03:00</updated>
     <author>
         <name>Vasi Stanciu</name>
     </author>
     <id>https://vascons.ro</id>
 
+    <entry>
+        <title>Vascons și Asociatii</title>
+        <author>
+            <name>Vasi Stanciu</name>
+        </author>
+        <link href="https://vascons.ro/vascons-si-asociatii.html"/>
+        <id>https://vascons.ro/vascons-si-asociatii.html</id>
+        <media:content url="https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg" medium="image" />
+
+        <updated>2026-10-02T17:34:13+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg" alt="" />
+                    Partenerul dumneavoastră de încredere în Construcții și Supervizare
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vascons.ro/media/posts/1/pexels-gustavo-fring-6285159.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Partenerul dumneavoastră de încredere în Construcții și Supervizare</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
